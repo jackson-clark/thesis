@@ -1,0 +1,83 @@
+\documentclass{article}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{braket}
+\usepackage{float}
+\usepackage{enumitem}
+\usepackage{epigraph}
+\usepackage[
+    backend = biber,
+    style= philosophy-modern,
+    sorting = nyt,
+    uniquename=false
+]{biblatex}
+
+\addbibresource{Exported Items.bib}
+\AtEveryBibitem{
+    \clearfield{note}
+    \clearfield{url}
+    \clearfield{urldate}
+    \clearfield{urlyear}
+    \clearfield{urlmonth}
+}
+
+\setlength\epigraphwidth{.57\textwidth}
+\setlength\epigraphrule{0pt}
+
+
+
+\author{Jackson Clark}
+\title{Literature Review - 499Y}
+\date{\today}
+\begin{document}
+
+\maketitle
+
+\epigraph{\itshape What we observe is not nature itself,\\
+but nature exposed to our method of questioning.}{---Werner Heisenberg, \textit{Physics and Philosophy}}
+
+\section{Many Worlds, Collapse, and Incoherence}
+Quantum mechanics is, as far as experimental testing goes, among the most (if not the most) successful theories of the physical sciences. The wavefunction solutions that shake out from the Schrödinger Equation lend insight into the subatomic world and produce wonderfully precise experimental predictions. The profound results on which discussion of many-worlds quantum mechanics are built fall outside the scope of this paper,\footnote{I will point out relevant sections of David J. Griffith’s \emph{Introduction to Quantum Mechanics} and Sakurai’s \emph{Modern Quantum Mechanics} as necessary.} but much attention will be paid to what the quantum formalism says about measurement, probability, and the evolution of the wavefunction. The importance here is seeing how these physical facts line up with our interpretation of quantum mechanics: the story one tells to make sense of our physical reality in light of the mathematics.
+
+What sets the orthodox (Copenhagen) interpretation apart from boilerplate quantum mechanics? How have we made room for extra-physical features like indeterminism and anti-realism of pre-measurement physical values? These features follow from accepting the collapse postulate. Collapse is introduced as a practical way to make sense of our observations and measurements. Given a system in a known potential and well-defined wavefunction, we can calculate a distribution over the possible values that one might obtain (for example, a continuous distribution over position values in the position basis). The collapse postulate says that when we take a measurement of a particular system, its wavefunction localizes to a delta-spike rather than evolving in the fashion required by the Schrödinger Equation. Considering the example of position space, the wavefunction has very high amplitude at the position we obtain upon measurement and zero amplitude everywhere else \parencite[6]{griffithsIntroductionQuantumMechanics2018}. What troubles some physicists is that collapse does not follow from any mathematical or physical facts. There is nothing which points to a discontinuity in the evolution of the wavefunction given a measurement, except that it seems to line up with our experience. This issue is largely ignored by physicists whose experimental verification goes through regardless of whether one accepts the collapse postulate or not.
+
+Hugh Everett was bothered enough by this problem to reformulate quantum theory \emph{sans} collapse. He found it problematic that the “probabilistic features are postulated in advance instead of being derived from the theory itself” \parencite[462]{everettRelativeStateFormulation1957}. His relative state theory suggests instead that all components of a quantum superposition obtain:
+\begin{quote}
+  ``Throughout all of a sequence of observation processes there is only one physical system representing the observer, yet there is no single unique state of the observer (which follows from the representations of interacting systems). Nevertheless, there is a representation in terms of a superposition, each element of which contains a definite observer state and a corresponding system state. Thus with each succeeding observation (or interaction), the observer state "branches" into a number of different states. Each branch represents a different outcome of the measurement and the corresponding eigenstate for the object-system state. All branches exist simultaneously in the superposition after any given sequence of observations’’ \parencite[459]{everettRelativeStateFormulation1957}.
+\end{quote}
+
+The relative state theory—along with the contemporary variations on the many-worlds quantum mechanics discussed herein—explain measurement phenomena without appeal to the collapse postulate. This feature is obviously an attractive one, but many-worlds brings with it a great deal of unanswered questions regarding probability.
+
+Orthodoxy draws a wonderfully simple connection between the wavefunction and probability via the collapse postulate: the measured state has a likelihood of obtaining proportional to the squared amplitude such that\footnote{Full derivation for square amplitude from collapse postulate in \cite{sakuraiModernQuantumMechanics2017}.}
+\begin{gather}
+  P(\psi_i) = |\braket{\psi_i | \Psi}|^2 \text{ where } \ket{\Psi} = \sum_i c_i \ket{\psi_i}
+\end{gather}
+Many-worlders cannot give such a simple answer, as it is not clear \emph{prima facie} what probability even means under Everettian views. All states obtain, and so immediately we can say that all states are realized regardless of their squared amplitudes such that $P(\psi_i)=1$.
+
+We arrive at the conclusion that the many-worlds interpretation is a deterministic theory since this view says that, with certainty, a given history on a branch will occur \parencite{albertProbabilityEverettPicture2010}. The headache continues. In a laboratory where I measure the spin of an electron, should I then be certain that spin up will occur \emph{and} that spin down will occur? This worry is two pronged:
+\begin{enumerate}
+\item The incoherence problem: many-worlds QM is deterministic, so there is something incoherent about assigning a probability less than one for a state which will surely obtain.
+\item The quantitative problem: how can we recover the Born-rule probabilities (squared amplitude) on this view?
+\end{enumerate}
+Responses vary widely, and this paper will focus on just two competing views. Namely, the fission program and the personal identity program.
+
+\section{Fission Program}
+
+Hillary Greaves is a vocal defender of the fission approach to understanding probability \parencite{greavesEverettEvidence2010, greavesProbabilityEverettInterpretation2007, greavesUnderstandingDeutschsProbability2004}. The fission program pulls from decision theoretic axioms to construct an argument for rational constraints on a branching agent. Her view relies not on subjective uncertainty, as does David Wallace's, but on a ``caring measure'' \parencite{wallaceEpistemologyQuantizedCircumstances2006}. A caring measure places stock in each of the branching selves which obtain after a quantum event, and after spelling out a justification for applying decision theory, each branched self will be cared about with weight equal to the Born-rule amplitudes \parencite[sec. 3.1.2]{greavesProbabilityEverettInterpretation2007}. Rather than reintroduce uncertainty, fissioners accept the bizarre result that an agent should rationally expect to see, with certainty, that each state in a given superposition will obtain. Yet, an agent can only experience seeing one state obtain. Expectation is seemingly at odds with experience.
+
+What does this look like for an agent? Let’s take the simple example of a spin 1/2 system with equal squared amplitude for each state:
+\begin{gather}
+  \ket{\Psi} = \frac{1}{\sqrt{2}}\left(\ket{\uparrow\downarrow} - \ket{\downarrow\uparrow}\right)
+\end{gather}
+Here, an agent measuring the z-spin of the top electron knows that each state will necessarily obtain given the deterministic nature of many-worlds but will assign an equal caring measure to each of their two branched selves (in this case, $1/2$ for each). The caring measure’s constraint on their rational preferences means they will act as if the Born Rule probabilities \emph{just are} the probabilities that each branch will obtain, even though each branch has probability 1.
+
+
+
+[Struggling to find citation for Wallace’s vagueness challenge: how do we maintain continuity of identity under this fission picture]
+
+[Introduce here the post-measurement uncertainty / ignorance probabilities introduced by \parencite{vaidmanSchizophrenicExperiencesNeutron1998}]
+
+\printbibliography[heading=bibnumbered]
+
+\end{document}
