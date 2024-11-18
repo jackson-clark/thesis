@@ -1,0 +1,511 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{albertProbabilityEverettPicture2010}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=805afd8fb2c468dd525cadac63e7faf6}{%
+           family={Albert},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=0fed1b8e072c5c7c9453ac8d4638afea}{%
+           family={Saunders},
+           familyi={S\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=288a0f1aced2dcf6afd1437337ca2e37}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b7aa48f0678b0467d4b36779731fa902}{%
+           family={Kent},
+           familyi={K\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=463dddf62adc26637970c7ee41b72fa4}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{805afd8fb2c468dd525cadac63e7faf6}
+      \strng{fullhash}{805afd8fb2c468dd525cadac63e7faf6}
+      \strng{bibnamehash}{805afd8fb2c468dd525cadac63e7faf6}
+      \strng{authorbibnamehash}{805afd8fb2c468dd525cadac63e7faf6}
+      \strng{authornamehash}{805afd8fb2c468dd525cadac63e7faf6}
+      \strng{authorfullhash}{805afd8fb2c468dd525cadac63e7faf6}
+      \strng{editorbibnamehash}{295e23979992d7ee4fe55d8b758a1611}
+      \strng{editornamehash}{177a848682fa12c230e7bcd14681e14d}
+      \strng{editorfullhash}{295e23979992d7ee4fe55d8b758a1611}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This chapter reviews and criticizes various strategies for making sense of quantum-mechanical probability-talk in the context of Everett Picture, with particular attention to recent such strategies involving decision theory.}
+      \field{booktitle}{Many {{Worlds}}?: {{Everett}}, {{Quantum Theory}}, and {{Reality}}}
+      \field{day}{24}
+      \field{isbn}{978-0-19-956056-1}
+      \field{month}{6}
+      \field{title}{Probability in the {{Everett Picture}}}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{0}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780199560561.003.0013
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/QA6524SF/160776287.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/acprof:oso/9780199560561.003.0013
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/acprof:oso/9780199560561.003.0013
+      \endverb
+      \keyw{Many Worlds}
+      \warn{\item Range field 'pages' in entry 'albertProbabilityEverettPicture2010' is malformed, falling back to literal}
+    \endentry
+    \entry{everettRelativeStateFormulation1957}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a08237088c1444ccebe31f2b682a16b6}{%
+           family={Everett},
+           familyi={E\bibinitperiod},
+           given={Hugh},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{a08237088c1444ccebe31f2b682a16b6}
+      \strng{fullhash}{a08237088c1444ccebe31f2b682a16b6}
+      \strng{bibnamehash}{a08237088c1444ccebe31f2b682a16b6}
+      \strng{authorbibnamehash}{a08237088c1444ccebe31f2b682a16b6}
+      \strng{authornamehash}{a08237088c1444ccebe31f2b682a16b6}
+      \strng{authorfullhash}{a08237088c1444ccebe31f2b682a16b6}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{DOI:https://doi.org/10.1103/RevModPhys.29.454}
+      \field{day}{1}
+      \field{journaltitle}{Reviews of Modern Physics}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shortjournal}{Rev. Mod. Phys.}
+      \field{title}{"{{Relative State}}" {{Formulation}} of {{Quantum Mechanics}}}
+      \field{urlday}{21}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{volume}{29}
+      \field{year}{1957}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{454\bibrangedash 462}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1103/RevModPhys.29.454
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/M52UBJGZ/Everett - 1957 - Relative State Formulation of Quantum Mechanics.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/RevModPhys.29.454
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/RevModPhys.29.454
+      \endverb
+    \endentry
+    \entry{greavesUnderstandingDeutschsProbability2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e0a3d4d0359469e79052da47b661508c}{%
+           family={Greaves},
+           familyi={G\bibinitperiod},
+           given={Hilary},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e0a3d4d0359469e79052da47b661508c}
+      \strng{fullhash}{e0a3d4d0359469e79052da47b661508c}
+      \strng{bibnamehash}{e0a3d4d0359469e79052da47b661508c}
+      \strng{authorbibnamehash}{e0a3d4d0359469e79052da47b661508c}
+      \strng{authornamehash}{e0a3d4d0359469e79052da47b661508c}
+      \strng{authorfullhash}{e0a3d4d0359469e79052da47b661508c}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics}
+      \field{number}{3}
+      \field{title}{Understanding {{Deutsch}}'s {{Probability}} in a {{Deterministic Universe}}}
+      \field{volume}{35}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{423\bibrangedash 456}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1016/j.shpsb.2004.04.006
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/KR84WK6H/Greaves - 2004 - Understanding Deutsch's Probability in a Deterministic Universe.pdf;/Users/jacksonclark/Zotero/storage/IU8TK4ZI/GREUDP-2.html
+      \endverb
+    \endentry
+    \entry{greavesProbabilityEverettInterpretation2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e0a3d4d0359469e79052da47b661508c}{%
+           family={Greaves},
+           familyi={G\bibinitperiod},
+           given={Hilary},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0a3d4d0359469e79052da47b661508c}
+      \strng{fullhash}{e0a3d4d0359469e79052da47b661508c}
+      \strng{bibnamehash}{e0a3d4d0359469e79052da47b661508c}
+      \strng{authorbibnamehash}{e0a3d4d0359469e79052da47b661508c}
+      \strng{authornamehash}{e0a3d4d0359469e79052da47b661508c}
+      \strng{authorfullhash}{e0a3d4d0359469e79052da47b661508c}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Everett (many-worlds) interpretation of quantum mechanics faces a prima facie problem concerning quantum probabilities. Research in this area has been fast-paced over the last few years, following a controversial suggestion by David Deutsch that decision theory can solve the problem. This article provides a non-technical introduction to the decision-theoretic program, and a sketch of the current state of the debate.}
+      \field{issn}{1747-9991, 1747-9991}
+      \field{journaltitle}{Philosophy Compass}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Philosophy Compass}
+      \field{title}{Probability in the {{Everett Interpretation}}}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{2}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{109\bibrangedash 128}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/j.1747-9991.2006.00054.x
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/IJ4IWWRT/Greaves - 2007 - Probability in the Everett Interpretation.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1747-9991.2006.00054.x
+      \endverb
+      \verb{url}
+      \verb https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1747-9991.2006.00054.x
+      \endverb
+    \endentry
+    \entry{greavesEverettEvidence2010}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=e0a3d4d0359469e79052da47b661508c}{%
+           family={Greaves},
+           familyi={G\bibinitperiod},
+           given={Hilary},
+           giveni={H\bibinitperiod}}}%
+        {{hash=66337909b7404e36405974de2f930f28}{%
+           family={Myrvold},
+           familyi={M\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=0fed1b8e072c5c7c9453ac8d4638afea}{%
+           family={Saunders},
+           familyi={S\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=288a0f1aced2dcf6afd1437337ca2e37}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b7aa48f0678b0467d4b36779731fa902}{%
+           family={Kent},
+           familyi={K\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=463dddf62adc26637970c7ee41b72fa4}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{9b510fc83cae5a6c783c1e1913f7e1f2}
+      \strng{fullhash}{9b510fc83cae5a6c783c1e1913f7e1f2}
+      \strng{bibnamehash}{9b510fc83cae5a6c783c1e1913f7e1f2}
+      \strng{authorbibnamehash}{9b510fc83cae5a6c783c1e1913f7e1f2}
+      \strng{authornamehash}{9b510fc83cae5a6c783c1e1913f7e1f2}
+      \strng{authorfullhash}{9b510fc83cae5a6c783c1e1913f7e1f2}
+      \strng{editorbibnamehash}{295e23979992d7ee4fe55d8b758a1611}
+      \strng{editornamehash}{177a848682fa12c230e7bcd14681e14d}
+      \strng{editorfullhash}{295e23979992d7ee4fe55d8b758a1611}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Much of the evidence for quantum mechanics is statistical in nature. Relative frequency data summarizing the results of repeated experiments is compared to probabilities calculated from the theory; close agreement between the observed relative frequencies and calculated probabilities is taken as evidence in favour of the theory. The Everett interpretation, if it is to be a candidate for serious consideration, must be capable of doing justice to this sort of reasoning. Since, on the Everett interpretation, all outcomes with non-zero amplitude are actualized on different branches, it is not obvious that sense can be made of ascribing probabilities to outcomes of experiments, and this poses a prima facie problem for statistical inference. It is incumbent on the Everettian either to make sense of ascribing probabilities to outcomes of experiments in the Everett interpretation, or to find a substitute on which the usual statistical analysis of experimental results continues to count as evidence for quantum mechanics, and, since it is the very evidence for quantum mechanics that is at stake, this must be done in a way that does not presuppose the correctness of Everettian quantum mechanics. This requires an account of theory confirmation that applies to branching-universe theories but does not presuppose the correctness of any such theory. This chapter supplies and defends such an account. The account has the consequence that statistical evidence can confirm a branching-universe theory such as Everettian quantum mechanics in the same way in which it can confirm a non-branching probabilistic theory.}
+      \field{booktitle}{Many {{Worlds}}?: {{Everett}}, {{Quantum Theory}}, and {{Reality}}}
+      \field{day}{24}
+      \field{isbn}{978-0-19-956056-1}
+      \field{month}{6}
+      \field{title}{Everett and {{Evidence}}}
+      \field{urlday}{21}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{0}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780199560561.003.0011
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/ZGYG62I9/160770721.html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/acprof:oso/9780199560561.003.0011
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/acprof:oso/9780199560561.003.0011
+      \endverb
+      \keyw{Many Worlds}
+      \warn{\item Range field 'pages' in entry 'greavesEverettEvidence2010' is malformed, falling back to literal}
+    \endentry
+    \entry{griffithsIntroductionQuantumMechanics2018}{book}{}
+      \name{author}{2}{}{%
+        {{hash=a00328547222c4a2a201442ee59dccfd}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7a89e36dbf4f2fc28b7fa782d433b9e9}{%
+           family={Schroeter},
+           familyi={S\bibinitperiod},
+           given={Darrell\bibnamedelima F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge New York, NY Port Melbourne, VIC New Delhi Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{53401a5b91631c47aa1d458117bf3f6f}
+      \strng{fullhash}{53401a5b91631c47aa1d458117bf3f6f}
+      \strng{bibnamehash}{53401a5b91631c47aa1d458117bf3f6f}
+      \strng{authorbibnamehash}{53401a5b91631c47aa1d458117bf3f6f}
+      \strng{authornamehash}{53401a5b91631c47aa1d458117bf3f6f}
+      \strng{authorfullhash}{53401a5b91631c47aa1d458117bf3f6f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Third edition}
+      \field{isbn}{978-1-107-18963-8}
+      \field{langid}{english}
+      \field{pagetotal}{495}
+      \field{title}{Introduction to Quantum Mechanics}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1017/9781316995433
+      \endverb
+    \endentry
+    \entry{sakuraiModernQuantumMechanics2017}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ff0c91c55b5caca1a75c53d4825f5bc1}{%
+           family={Sakurai},
+           familyi={S\bibinitperiod},
+           given={Jun\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b87d786f54d3cf33fabdda13f1df174d}{%
+           family={Napolitano},
+           familyi={N\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{863a26f5e91955b1d359ebb44a3f2b75}
+      \strng{fullhash}{863a26f5e91955b1d359ebb44a3f2b75}
+      \strng{bibnamehash}{863a26f5e91955b1d359ebb44a3f2b75}
+      \strng{authorbibnamehash}{863a26f5e91955b1d359ebb44a3f2b75}
+      \strng{authornamehash}{863a26f5e91955b1d359ebb44a3f2b75}
+      \strng{authorfullhash}{863a26f5e91955b1d359ebb44a3f2b75}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Second edition}
+      \field{isbn}{978-1-108-42241-3}
+      \field{langid}{english}
+      \field{pagetotal}{550}
+      \field{title}{Modern Quantum Mechanics}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{vaidmanSchizophrenicExperiencesNeutron1998}{article}{}
+      \name{author}{1}{}{%
+        {{hash=11abbf9d308a9ee195903144450c82fd}{%
+           family={Vaidman},
+           familyi={V\bibinitperiod},
+           given={Lev},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{11abbf9d308a9ee195903144450c82fd}
+      \strng{fullhash}{11abbf9d308a9ee195903144450c82fd}
+      \strng{bibnamehash}{11abbf9d308a9ee195903144450c82fd}
+      \strng{authorbibnamehash}{11abbf9d308a9ee195903144450c82fd}
+      \strng{authornamehash}{11abbf9d308a9ee195903144450c82fd}
+      \strng{authorfullhash}{11abbf9d308a9ee195903144450c82fd}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This is a philosophical paper in favor of the many‐worlds interpretation (MWI) of quantum theory. The necessity of introducing many worlds is explained by analyzing a neutron interference experiment. The concept of the “measure of existence of a world” is introduced and some difficulties with the issue of probability in the framework of the MWI are resolved.}
+      \field{day}{1}
+      \field{issn}{0269-8595}
+      \field{journaltitle}{International Studies in the Philosophy of Science}
+      \field{month}{10}
+      \field{number}{3}
+      \field{title}{On Schizophrenic Experiences of the Neutron or Why We Should Believe in the Many‐worlds Interpretation of Quantum Theory}
+      \field{urlday}{21}
+      \field{urlmonth}{10}
+      \field{urlyear}{2024}
+      \field{volume}{12}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{245\bibrangedash 261}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1080/02698599808573600
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/C4ELAUYK/Vaidman - 1998 - On schizophrenic experiences of the neutron or why we should believe in the many‐worlds interpretati.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/02698599808573600
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/02698599808573600
+      \endverb
+    \endentry
+    \entry{wallaceEpistemologyQuantizedCircumstances2006}{article}{}
+      \name{author}{1}{}{%
+        {{hash=463dddf62adc26637970c7ee41b72fa4}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{fullhash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{bibnamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authorbibnamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authornamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authorfullhash}{463dddf62adc26637970c7ee41b72fa4}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{I consider exactly what is involved in a solution to the probability problem of the Everett interpretation, in the light of recent work on applying considerations from decision theory to that problem. I suggest an overall framework for understanding probability in a physical theory, and conclude that this framework, when applied to the Everett interpretation, yields the result that that interpretation satisfactorily solves the measurement problem.}
+      \field{day}{1}
+      \field{issn}{0007-0882, 1464-3537}
+      \field{journaltitle}{The British Journal for the Philosophy of Science}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{The British Journal for the Philosophy of Science}
+      \field{shorttitle}{Epistemology {{Quantized}}}
+      \field{title}{Epistemology {{Quantized}}: Circumstances in Which We Should Come to Believe in the {{Everett}} Interpretation}
+      \field{urlday}{29}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{57}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{655\bibrangedash 689}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1093/bjps/axl023
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/TK65KMZM/Wallace - 2006 - Epistemology Quantized circumstances in which we should come to believe in the Everett interpretati.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.journals.uchicago.edu/doi/10.1093/bjps/axl023
+      \endverb
+      \verb{url}
+      \verb https://www.journals.uchicago.edu/doi/10.1093/bjps/axl023
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
