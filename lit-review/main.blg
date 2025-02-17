@@ -1,18 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[45] biber-darwin:340> INFO - === Sun Nov 17, 2024, 20:55:16
-[57] Biber.pm:419> INFO - Reading 'main.bcf'
-[105] Biber.pm:979> INFO - Found 9 citekeys in bib section 0
-[113] Biber.pm:4419> INFO - Processing section 0
-[119] Biber.pm:4610> INFO - Looking for bibtex file 'Exported Items.bib' for section 0
-[120] bibtex.pm:1713> INFO - LaTeX decoding ...
-[134] bibtex.pm:1519> INFO - Found BibTeX data source 'Exported Items.bib'
-[188] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[188] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[188] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[188] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[197] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[201] bbl.pm:763> INFO - Output to main.bbl
-[201] Biber.pm:131> WARN - Range field 'pages' in entry 'albertProbabilityEverettPicture2010' is malformed, falling back to literal
-[201] Biber.pm:131> WARN - Range field 'pages' in entry 'greavesEverettEvidence2010' is malformed, falling back to literal
-[201] Biber.pm:133> INFO - WARNINGS: 2
+[57] biber-darwin:340> INFO - === Mon Feb 10, 2025, 20:32:12
+[69] Biber.pm:419> INFO - Reading 'main.bcf'
+[144] Biber.pm:979> INFO - Found 14 citekeys in bib section 0
+[156] Biber.pm:4419> INFO - Processing section 0
+[165] Biber.pm:4610> INFO - Looking for bibtex file 'Exported Items.bib' for section 0
+[167] bibtex.pm:1713> INFO - LaTeX decoding ...
+[199] bibtex.pm:1519> INFO - Found BibTeX data source 'Exported Items.bib'
+[292] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[292] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[292] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[292] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[305] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[312] bbl.pm:763> INFO - Output to main.bbl
+[312] Biber.pm:131> WARN - Range field 'pages' in entry 'albertProbabilityEverettPicture2010' is malformed, falling back to literal
+[313] Biber.pm:131> WARN - Range field 'pages' in entry 'greavesEverettEvidence2010' is malformed, falling back to literal
+[313] Biber.pm:133> INFO - WARNINGS: 2

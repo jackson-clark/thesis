@@ -361,96 +361,356 @@
       \verb{doi}
       \verb 10.1017/9781316995433
       \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/TYIQ6PCG/GQM.pdf
+      \endverb
     \endentry
-    \entry{sakuraiModernQuantumMechanics2017}{book}{}
-      \name{author}{2}{}{%
-        {{hash=ff0c91c55b5caca1a75c53d4825f5bc1}{%
-           family={Sakurai},
-           familyi={S\bibinitperiod},
-           given={Jun\bibnamedelima J.},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=b87d786f54d3cf33fabdda13f1df174d}{%
-           family={Napolitano},
-           familyi={N\bibinitperiod},
-           given={Jim},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cambridge}%
+    \entry{higgsBrokenSymmetriesMasses1964}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3e19a08b8763d812b642d1d6654aa521}{%
+           family={Higgs},
+           familyi={H\bibinitperiod},
+           given={Peter\bibnamedelima W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Cambridge University Press}%
+        {American Physical Society}%
       }
-      \strng{namehash}{863a26f5e91955b1d359ebb44a3f2b75}
-      \strng{fullhash}{863a26f5e91955b1d359ebb44a3f2b75}
-      \strng{bibnamehash}{863a26f5e91955b1d359ebb44a3f2b75}
-      \strng{authorbibnamehash}{863a26f5e91955b1d359ebb44a3f2b75}
-      \strng{authornamehash}{863a26f5e91955b1d359ebb44a3f2b75}
-      \strng{authorfullhash}{863a26f5e91955b1d359ebb44a3f2b75}
+      \strng{namehash}{3e19a08b8763d812b642d1d6654aa521}
+      \strng{fullhash}{3e19a08b8763d812b642d1d6654aa521}
+      \strng{bibnamehash}{3e19a08b8763d812b642d1d6654aa521}
+      \strng{authorbibnamehash}{3e19a08b8763d812b642d1d6654aa521}
+      \strng{authornamehash}{3e19a08b8763d812b642d1d6654aa521}
+      \strng{authorfullhash}{3e19a08b8763d812b642d1d6654aa521}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{journaltitle}{Physical Review Letters}
+      \field{month}{10}
+      \field{number}{16}
+      \field{shortjournal}{Phys. Rev. Lett.}
+      \field{title}{Broken {{Symmetries}} and the {{Masses}} of {{Gauge Bosons}}}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{1964}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{508\bibrangedash 509}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.13.508
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/C9F4MKMK/Higgs - 1964 - Broken Symmetries and the Masses of Gauge Bosons.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.13.508
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.13.508
+      \endverb
+    \endentry
+    \entry{saundersTimeQuantumMechanics1998}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0fed1b8e072c5c7c9453ac8d4638afea}{%
+           family={Saunders},
+           familyi={S\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0fed1b8e072c5c7c9453ac8d4638afea}
+      \strng{fullhash}{0fed1b8e072c5c7c9453ac8d4638afea}
+      \strng{bibnamehash}{0fed1b8e072c5c7c9453ac8d4638afea}
+      \strng{authorbibnamehash}{0fed1b8e072c5c7c9453ac8d4638afea}
+      \strng{authornamehash}{0fed1b8e072c5c7c9453ac8d4638afea}
+      \strng{authorfullhash}{0fed1b8e072c5c7c9453ac8d4638afea}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{edition}{Second edition}
-      \field{isbn}{978-1-108-42241-3}
-      \field{langid}{english}
-      \field{pagetotal}{550}
-      \field{title}{Modern Quantum Mechanics}
-      \field{year}{2017}
+      \field{abstract}{A variety of ideas arising in decoherence theory, and in the ongoing debate over Everett's relative-state theory, can be linked to issues in relativity theory and the philosophy of time, specifically the relational theory of tense and of identity over time. These have been systematically presented in companion papers (Saunders 1995; 1996a); in what follows we shall consider the same circle of ideas, but specifically in relation to the interpretation of probability, and its identification with relations in the Hilbert Space norm. The familiar objection that Everett's approach yields probabilities different from quantum mechanics is easily dealt with. The more fundamental question is how to interpret these probabilities consistent with the relational theory of change, and the relational theory of identity over time. I shall show that the relational theory needs nothing more than the physical, minimal criterion of identity as defined by Everett's theory, and that this can be transparently interpreted in terms of the ordinary notion of the chance occurrence of an event, as witnessed in the present. It is in this sense that the theory has empirical content.}
+      \field{eprinttype}{jstor}
+      \field{issn}{0039-7857}
+      \field{journaltitle}{Synthese}
+      \field{number}{3}
+      \field{title}{Time, {{Quantum Mechanics}}, and {{Probability}}}
+      \field{urlday}{5}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{114}
+      \field{year}{1998}
       \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{373\bibrangedash 404}
+      \range{pages}{32}
+      \verb{eprint}
+      \verb 20118031
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/CRHSZ5KG/Saunders - 1998 - Time, Quantum Mechanics, and Probability.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/20118031
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/20118031
+      \endverb
     \endentry
-    \entry{vaidmanSchizophrenicExperiencesNeutron1998}{article}{}
-      \name{author}{1}{}{%
-        {{hash=11abbf9d308a9ee195903144450c82fd}{%
-           family={Vaidman},
-           familyi={V\bibinitperiod},
-           given={Lev},
-           giveni={L\bibinitperiod}}}%
+    \entry{saundersBranchingUncertainty2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0fed1b8e072c5c7c9453ac8d4638afea}{%
+           family={Saunders},
+           familyi={S\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=463dddf62adc26637970c7ee41b72fa4}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Routledge}%
+        {[Oxford University Press, The British Society for the Philosophy of Science]}%
       }
-      \strng{namehash}{11abbf9d308a9ee195903144450c82fd}
-      \strng{fullhash}{11abbf9d308a9ee195903144450c82fd}
-      \strng{bibnamehash}{11abbf9d308a9ee195903144450c82fd}
-      \strng{authorbibnamehash}{11abbf9d308a9ee195903144450c82fd}
-      \strng{authornamehash}{11abbf9d308a9ee195903144450c82fd}
-      \strng{authorfullhash}{11abbf9d308a9ee195903144450c82fd}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \strng{namehash}{ad3b84aea4225a75e36db58ac80fa7a8}
+      \strng{fullhash}{ad3b84aea4225a75e36db58ac80fa7a8}
+      \strng{bibnamehash}{ad3b84aea4225a75e36db58ac80fa7a8}
+      \strng{authorbibnamehash}{ad3b84aea4225a75e36db58ac80fa7a8}
+      \strng{authornamehash}{ad3b84aea4225a75e36db58ac80fa7a8}
+      \strng{authorfullhash}{ad3b84aea4225a75e36db58ac80fa7a8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This is a philosophical paper in favor of the many‐worlds interpretation (MWI) of quantum theory. The necessity of introducing many worlds is explained by analyzing a neutron interference experiment. The concept of the “measure of existence of a world” is introduced and some difficulties with the issue of probability in the framework of the MWI are resolved.}
-      \field{day}{1}
-      \field{issn}{0269-8595}
-      \field{journaltitle}{International Studies in the Philosophy of Science}
-      \field{month}{10}
+      \field{abstract}{Following Lewis, it is widely held that branching worlds differ in important ways from diverging worlds. There is, however, a simple and natural semantics under which ordinary sentences uttered in branching worlds have much the same truth values as they conventionally have in diverging worlds. Under this semantics, whether branching or diverging, speakers cannot say in advance which branch or world is theirs. They are uncertain as to the outcome. This same semantics ensures the truth of utterances typically made about quantum mechanical contingencies, including statements of uncertainty, if the Everett interpretation of quantum mechanics is true. The 'incoherence problem' of the Everett interpretation, that it can give no meaning to the notion of uncertainty, is thereby solved.}
+      \field{eprinttype}{jstor}
+      \field{issn}{0007-0882}
+      \field{journaltitle}{The British Journal for the Philosophy of Science}
       \field{number}{3}
-      \field{title}{On Schizophrenic Experiences of the Neutron or Why We Should Believe in the Many‐worlds Interpretation of Quantum Theory}
-      \field{urlday}{21}
-      \field{urlmonth}{10}
+      \field{title}{Branching and {{Uncertainty}}}
+      \field{urlday}{4}
+      \field{urlmonth}{11}
       \field{urlyear}{2024}
-      \field{volume}{12}
-      \field{year}{1998}
+      \field{volume}{59}
+      \field{year}{2008}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{245\bibrangedash 261}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.1080/02698599808573600
+      \field{pages}{293\bibrangedash 305}
+      \range{pages}{13}
+      \verb{eprint}
+      \verb 40072286
       \endverb
       \verb{file}
-      \verb /Users/jacksonclark/Zotero/storage/C4ELAUYK/Vaidman - 1998 - On schizophrenic experiences of the neutron or why we should believe in the many‐worlds interpretati.pdf
+      \verb /Users/jacksonclark/Zotero/storage/QY7LY9JI/Saunders and Wallace - 2008 - Branching and Uncertainty.pdf
       \endverb
       \verb{urlraw}
-      \verb https://doi.org/10.1080/02698599808573600
+      \verb https://www.jstor.org/stable/40072286
       \endverb
       \verb{url}
-      \verb https://doi.org/10.1080/02698599808573600
+      \verb https://www.jstor.org/stable/40072286
+      \endverb
+    \endentry
+    \entry{schlosshauerSnapshotFoundationalAttitudes2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c5bfca778edc45bc8ae195601f407918}{%
+           family={Schlosshauer},
+           familyi={S\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod}}}%
+        {{hash=acbf6dd7fe3cb96eec1b4f3c88f74098}{%
+           family={Kofler},
+           familyi={K\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a961661d22885d8f3bcba104deec38f0}{%
+           family={Zeilinger},
+           familyi={Z\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{87128296faffc3b91fd947b53a68f78f}
+      \strng{fullhash}{143a12aa2c0d4f786d38fc100f64de36}
+      \strng{bibnamehash}{143a12aa2c0d4f786d38fc100f64de36}
+      \strng{authorbibnamehash}{143a12aa2c0d4f786d38fc100f64de36}
+      \strng{authornamehash}{87128296faffc3b91fd947b53a68f78f}
+      \strng{authorfullhash}{143a12aa2c0d4f786d38fc100f64de36}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Foundational investigations in quantum mechanics, both experimental and theoretical, gave birth to the field of quantum information science. Nevertheless, the foundations of quantum mechanics themselves remain hotly debated in the scientific community, and no consensus on essential questions has been reached. Here, we present the results of a poll carried out among 33 participants of a conference on the foundations of quantum mechanics. The participants completed a questionnaire containing 16 multiple-choice questions probing opinions on quantum-foundational issues. Participants included physicists, philosophers, and mathematicians. We describe our findings, identify commonly held views, and determine strong, medium, and weak correlations between the answers. Our study provides a unique snapshot of current views in the field of quantum foundations, as well as an analysis of the relationships between these views.}
+      \field{day}{1}
+      \field{issn}{1355-2198}
+      \field{journaltitle}{Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics}
+      \field{month}{8}
+      \field{number}{3}
+      \field{shortjournal}{Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics}
+      \field{title}{A Snapshot of Foundational Attitudes toward Quantum Mechanics}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{44}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{222\bibrangedash 230}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.shpsb.2013.04.004
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/GY6TIBEM/Schlosshauer et al. - 2013 - A snapshot of foundational attitudes toward quantum mechanics.pdf;/Users/jacksonclark/Zotero/storage/8RAW78XX/S1355219813000397.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1355219813000397
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1355219813000397
+      \endverb
+      \keyw{Foundations of quantum theory,History and philosophy of physics,Quantum theory}
+    \endentry
+    \entry{wallaceEverettianRationalityDefending2003a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=463dddf62adc26637970c7ee41b72fa4}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{fullhash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{bibnamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authorbibnamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authornamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authorfullhash}{463dddf62adc26637970c7ee41b72fa4}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{An analysis is made of Deutsch's recent claim to have derived the Born rule from decision-theoretic assumptions. It is argued that Deutsch's proof must be understood in the explicit context of the Everett interpretation, and that in this context, it essentially succeeds. Some comments are made about the criticism of Deutsch's proof by Barnum, Caves, Finkelstein, Fuchs, and Schack; it is argued that the flaw which they point out in the proof does not apply if the Everett interpretation is assumed.}
+      \field{day}{1}
+      \field{issn}{1355-2198}
+      \field{journaltitle}{Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics}
+      \field{month}{9}
+      \field{number}{3}
+      \field{series}{Quantum {{Information}} and {{Computation}}}
+      \field{shortjournal}{Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics}
+      \field{shorttitle}{Everettian Rationality}
+      \field{title}{Everettian Rationality: Defending {{Deutsch}}'s Approach to Probability in the {{Everett}} Interpretation}
+      \field{urlday}{9}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{volume}{34}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{415\bibrangedash 439}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/S1355-2198(03)00036-4
+      \endverb
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/KZTR5BUL/Wallace - 2003 - Everettian rationality defending Deutsch's approach to probability in the Everett interpretation.pdf;/Users/jacksonclark/Zotero/storage/UTPHZGPF/S1355219803000364.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1355219803000364
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1355219803000364
+      \endverb
+      \keyw{Decision theory,Everett interpretation,Interpretation of quantum mechanics,Probability}
+    \endentry
+    \entry{wallaceLanguageUseBranching2005}{article}{}
+      \name{author}{1}{}{%
+        {{hash=463dddf62adc26637970c7ee41b72fa4}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{fullhash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{bibnamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authorbibnamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authornamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authorfullhash}{463dddf62adc26637970c7ee41b72fa4}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{I investigate the consequences for semantics, and in particular for the semantics of tense, if time is assumed to have a branching structure not out of metaphysical necessity (to solve some philosophical problem) but just as a contingent physical fact, as is suggested by a currently-popular approach to the interpretation of quantum mechanics.}
+      \field{langid}{english}
+      \field{title}{Language Use in a Branching {{Universe}}}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/I8F8VMNQ/Wallace - Language use in a branching Universe.pdf
+      \endverb
+    \endentry
+    \entry{wallaceQuantumProbabilitySubjective2005}{online}{}
+      \name{author}{1}{}{%
+        {{hash=463dddf62adc26637970c7ee41b72fa4}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{fullhash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{bibnamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authorbibnamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authornamehash}{463dddf62adc26637970c7ee41b72fa4}
+      \strng{authorfullhash}{463dddf62adc26637970c7ee41b72fa4}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{I present a proof of the quantum probability rule from decision-theoretic assumptions, in the context of the Everett interpretation. The basic ideas behind the proof are those presented in Deutsch's recent proof of the probability rule, but the proof is simpler and proceeds from weaker decision-theoretic assumptions. This makes it easier to discuss the conceptual ideas involved in the proof, and to show that they are defensible.}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{shorttitle}{Quantum {{Probability}} from {{Subjective Likelihood}}}
+      \field{title}{Quantum {{Probability}} from {{Subjective Likelihood}}: Improving on {{Deutsch}}'s Proof of the Probability Rule}
+      \field{type}{Preprint}
+      \field{urlday}{18}
+      \field{urlmonth}{11}
+      \field{urlyear}{2024}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/jacksonclark/Zotero/storage/99IUW6YZ/Wallace - 2005 - Quantum Probability from Subjective Likelihood improving on Deutsch's proof of the probability rule.pdf;/Users/jacksonclark/Zotero/storage/32JGFXMH/2302.html
+      \endverb
+      \verb{urlraw}
+      \verb https://philsci-archive.pitt.edu/2302/
+      \endverb
+      \verb{url}
+      \verb https://philsci-archive.pitt.edu/2302/
       \endverb
     \endentry
     \entry{wallaceEpistemologyQuantizedCircumstances2006}{article}{}
@@ -467,6 +727,7 @@
       \strng{authorbibnamehash}{463dddf62adc26637970c7ee41b72fa4}
       \strng{authornamehash}{463dddf62adc26637970c7ee41b72fa4}
       \strng{authorfullhash}{463dddf62adc26637970c7ee41b72fa4}
+      \field{extraname}{4}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
